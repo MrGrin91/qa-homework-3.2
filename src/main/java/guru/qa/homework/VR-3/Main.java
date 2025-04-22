@@ -6,7 +6,7 @@ package guru.qa.homework.VR;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Not hello, from Vadim!");
+        System.out.printf("Not hello, from Vadim!1111!!");
         }
         private static String getMassage() {
 
